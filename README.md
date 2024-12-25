@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vedikako/practice/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/vedikako/practice/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/vedikako/practice/tree/master/0234-palindrome-linked-list) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/vedikako/practice/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/vedikako/practice/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
