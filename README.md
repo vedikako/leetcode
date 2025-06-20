@@ -23,17 +23,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vedikako/practice/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/vedikako/practice/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/vedikako/practice/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vedikako/practice/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/vedikako/practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/vedikako/practice/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/vedikako/practice/tree/master/0908-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vedikako/practice/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/vedikako/practice/tree/master/0202-happy-number) |
 ## Stack
 |  |
 | ------- |
