@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/vedikako/practice/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/vedikako/practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/vedikako/practice/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/vedikako/practice/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/vedikako/practice/tree/master/0908-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vedikako/practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/vedikako/practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vedikako/practice/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/vedikako/practice/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/vedikako/practice/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/vedikako/practice/tree/master/0371-sum-of-two-integers) |
 ## Tree
 |  |
@@ -118,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/vedikako/practice/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/vedikako/practice/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/vedikako/practice/tree/master/1757-recyclable-and-low-fat-products) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/vedikako/practice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
