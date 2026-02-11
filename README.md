@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/vedikako/practice/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/vedikako/practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vedikako/practice/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/vedikako/practice/tree/master/0383-ransom-note) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vedikako/practice/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/vedikako/practice/tree/master/0383-ransom-note) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/vedikako/practice/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/vedikako/practice/tree/master/0383-ransom-note) |
 ## Database
 |  |
 | ------- |
