@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/vedikako/practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/vedikako/practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vedikako/practice/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/vedikako/practice/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/vedikako/practice/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/vedikako/practice/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/vedikako/practice/tree/master/0371-sum-of-two-integers) |
+| [0509-fibonacci-number](https://github.com/vedikako/practice/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -147,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/vedikako/practice/tree/master/0643-maximum-average-subarray-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vedikako/practice/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vedikako/practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
