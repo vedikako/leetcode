@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vedikako/practice/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/vedikako/practice/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/vedikako/practice/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/vedikako/practice/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/vedikako/practice/tree/master/0509-fibonacci-number) |
@@ -152,9 +153,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vedikako/practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/vedikako/practice/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vedikako/practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/vedikako/practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
