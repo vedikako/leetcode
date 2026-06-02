@@ -12,7 +12,7 @@ public:
                 l=m+2;
 
             }else{
-                h=m;
+                h=m-1;
             }
         }
         return nums[l];
