@@ -15,5 +15,6 @@ public:
         if (mpps==mppt){
             return true;
         }else return false;
+        if (s.length() != t.length()) return false;
     }
 };
