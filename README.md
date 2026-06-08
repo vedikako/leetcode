@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vedikako/practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vedikako/practice/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/vedikako/practice/tree/master/0383-ransom-note) |
+| [0560-subarray-sum-equals-k](https://github.com/vedikako/practice/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vedikako/practice/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/vedikako/practice/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vedikako/practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/vedikako/practice/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/vedikako/practice/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/vedikako/practice/tree/master/0875-koko-eating-bananas) |
 ## Sorting
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/vedikako/practice/tree/master/0074-search-a-2d-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/vedikako/practice/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
