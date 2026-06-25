@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/vedikako/practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vedikako/practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vedikako/practice/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/vedikako/practice/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/vedikako/practice/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/vedikako/practice/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vedikako/practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vedikako/practice/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/vedikako/practice/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/vedikako/practice/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
