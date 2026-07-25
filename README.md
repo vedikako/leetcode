@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vedikako/practice/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vedikako/practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vedikako/practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/vedikako/practice/tree/master/0234-palindrome-linked-list) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vedikako/practice/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/vedikako/practice/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/vedikako/practice/tree/master/0383-ransom-note) |
 ## Database
